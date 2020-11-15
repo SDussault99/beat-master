@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+    <meta charset="utf-8">
+    <title>TP01 - Dussault & Perron</title>
+
+    <link rel="stylesheet" href="styles/styles.css"/>
+
+    <script src="libraries/createjs.js" defer></script>
+    <script src="libraries/ndgmr.Collision.js" defer></script>
+    <script src="scripts/index.js" type="module"></script>
+
+
+</head>
+
+<body>
+<canvas width="1280" height="800"></canvas>
+<div id="fenetreDebut">
+    <h1>BEAT MASTER</h1>
+    <div class="flex">
+        <h3>JOUEUR 1 A-S</h3>
+        <h3>JOUEUR 2 K-L</h3>
+    </div>
+    <p>Appuyez sur les boutons au moment où ils entrent en contact avec les tuiles</p>
+    <button id="buttonStart">OK</button>
+</div>
+
+<div id="fenetreFin">
+    <h2>PARTIE FINIE</h2>
+    <h2 id="results">PARTIE FINIE</h2>
+    <p>Cliquez sur REJOUER pour faire une nouvelle partie</p>
+    <button id="buttonRestart">REJOUER</button>
+</div>
+</body>
+
+</html>

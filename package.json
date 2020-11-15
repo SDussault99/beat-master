@@ -1,0 +1,10 @@
+{
+  "name": "Beat Master",
+  "main": "index.html",
+  "window": {
+    "fullscreen": true,
+    "width": 1280,
+    "height": 800
+  }
+
+}

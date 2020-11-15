@@ -1,0 +1,23 @@
+{
+  "manifest": [
+    {"id": "accueil", "src": "ressources/images/accueil.jpg"},
+    {"id": "fond", "src": "ressources/images/fond.png"},
+
+    {"id": "btn1", "src": "ressources/images/caseRouge.png"},
+    {"id": "btn2", "src": "ressources/images/caseRouge.png"},
+    {"id": "btn3", "src": "ressources/images/caseBleu.png"},
+    {"id": "btn4", "src": "ressources/images/caseBleu.png"},
+    {"id": "case1", "src": "ressources/images/caseRouge.png"},
+    {"id": "case2", "src": "ressources/images/caseRouge.png"},
+    {"id": "case3", "src": "ressources/images/caseBleu.png"},
+    {"id": "case4", "src": "ressources/images/caseBleu.png"},
+
+    {"id": "music1",  "src": "ressources/sons/music1.mp3", "type": "sound"},
+    {"id": "music2",  "src": "ressources/sons/music2.mp3", "type": "sound"},
+    {"id": "music3",  "src": "ressources/sons/music3.mp3", "type": "sound"},
+    {"id": "music4",  "src": "ressources/sons/music4.mp3", "type": "sound"},
+    {"id": "music5",  "src": "ressources/sons/music5.mp3", "type": "sound"},
+
+    {"id": "police", "src": "ressources/polices/Championship.ttf", "type":  "font"}
+  ]
+}
